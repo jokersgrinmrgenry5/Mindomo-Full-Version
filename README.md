@@ -243,4 +243,4 @@ This repository serves as the official landing page for Mindomo. The software is
 **Get the most recent version of Mindomo today!**
 
 ---
-**Last updated:** 2026-10-22 01:08:09 UTC
+**Last updated:** 2026-10-22 06:53:49 UTC
